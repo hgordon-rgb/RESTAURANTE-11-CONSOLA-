@@ -1,0 +1,16 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Hamburguesa",
+        "categoria": "Comida",
+        "precio": 5.50,
+        "stock": 20
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Gaseosa",
+        "categoria": "Bebida",
+        "precio": 1.50,
+        "stock": 30
+    }
+]
